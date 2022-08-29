@@ -13,7 +13,6 @@ The Wildlife Observatory of Australia expects to overcome these key issues, enab
 - Enable robust wildlife monitoring and measuring of conservation impact, including applications for species threat assessment, National Recovery plans and contribution to international agreements
 - Drive new science in long-term environmental change and evaluation of management outcomes for biodiversity
 - Provide timely evidence of ecosystem function and triggers for preventative and responsive action
-
 ![alt text](https://www.tern.org.au/wp-content/uploads/Dashboard.jpg)
 _WildObs will standardise camera surveys, aid image processing, and make camera datasets widely usable for myriad industry and government reporting goals to stimulate research._
 
