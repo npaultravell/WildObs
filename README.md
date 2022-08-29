@@ -1,4 +1,3 @@
-![alt text](https://www.tern.org.au/wp-content/uploads/elementor/thumbs/WildObs_Website_Header_2048_400mm_1_60-provkfseacvrlp7z166vzwu83tlb3jy39o23l3misg.png)
 ![image](https://user-images.githubusercontent.com/111103188/187103820-923af8e8-b783-461c-809a-a118ee17ccb2.png)
 
 
