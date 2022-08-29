@@ -13,7 +13,7 @@ _WildObs will standardise camera surveys, aid image processing, and make camera 
 <sub>“If our mission is to improve conservation efforts, WildObs can provide the infrastructure to answer hundreds of research questions. WildObs can deliver stronger evidence to influence policies and management decisions and reduce redundancy in expensive sampling efforts. However, an observatory of this type requires us as researchers and land managers to put national interests ahead of our own, and put aside the traditional paradigm of data ownership: our data and technology must be open and freely available for everyone ”. </sub>
   
 
-<sub>*Dr Matthew Luskin, University of Queensland* </sub>
+<sub>**Dr Matthew Luskin, University of Queensland** </sub>
 
 
   
